@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1338
     wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34058#The-Crime-of-the-Boulevard
 gutenberg_issued: '2010-10-11'
 gutenberg_type: Text
 identifiers:
